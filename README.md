@@ -22,26 +22,13 @@ There are several demonstration files available in this template.
 
 - HomeController.scala:
 
-  Shows how to handle simple HTTP requests.
-
-- AsyncController.scala:
-
-  Shows how to do asynchronous programming when handling a request.
-
-- CountController.scala:
-
-  Shows how to inject a component into a controller and use the component when
-  handling requests.
+  Shows how to handle simple HTTP requests. Currently responds with a basic html page containing an example React component.
 
 ## Components
 
 - Module.scala:
 
   Shows how to use Guice to bind all the components needed by your application.
-
-- Counter.scala:
-
-  An example of a component that contains state, in this case a simple counter.
 
 - ApplicationTimer.scala:
 
