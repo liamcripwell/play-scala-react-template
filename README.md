@@ -2,6 +2,10 @@
 
 This is a template project using Play 2.5, Scala and React.
 
+## React Usage
+
+React integration has been set up using WebJars and [sbt-reactjs](https://github.com/dispalt/sbt-reactjs). All .jsx scripts are to be stored in app/assets/javascripts.
+
 ## Running
 
 Run this using [sbt](http://www.scala-sbt.org/).
